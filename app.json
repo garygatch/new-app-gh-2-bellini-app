@@ -1,0 +1,48 @@
+{
+  "config": {
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    },
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "environments": [],
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "themes": []
+  },
+  "defaultPage": "home",
+  "directories": {
+    "assets": [],
+    "components": [
+      {
+        "id": "tbTlE6avbuTGsW5xOoPuL",
+        "name": "a"
+      },
+      {
+        "id": "JpOzwJHiGWnKDUtnHqwdM",
+        "name": "b"
+      }
+    ],
+    "pages": [],
+    "scripts": [],
+    "services": [],
+    "stylesheets": []
+  },
+  "localScripts": [
+    {
+      "path": "a.js"
+    }
+  ],
+  "localStylesheets": [
+    {
+      "path": "a.css"
+    }
+  ],
+  "name": "new-app-gh-2",
+  "type": "app"
+}
